@@ -1,23 +1,24 @@
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=40&duration=3000&pause=1000&color=33FF00&center=true&vCenter=true&width=435&lines=OL%C3%81,+DEV!;WELCOME+TO+MY+WORLD;CODE_+IS_+LIFE" alt="Typing SVG" />
-  </a>
+## Olá, Meu nome e Murilo Souza. Seja bem-vindo ao meu perfil!! 😁👨‍💻 ##
+
+- 💻 Sou estudante de ciência da computação.
+- 🛜 Me especializando nas áreas de Front-end e Back-end.
+- 🧠 Facilidade em comunicação e aprendizado!
+##
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=murilosouza1-ccp&show_icons=true&bg_color=00000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=murilosouza1-ccp&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+##
+Minhas Techs
+<div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Rafa-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg">
 </div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<div align="center">
-  <h3> 🚀 Transformando café em código ☕ </h3>
+<br>
+<div> 
+  <a href="http://instagram.com/musouzz.dev/#" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:muriloborgesti1@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/murilosouza1-ccp/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
 </div>
-
----
-
-### 👾 | PERFIL DO JOGADOR
-
-```json
-{
-  "nome": "[SEU NOME AQUI]",
-  "função": "Desenvolvedor FullStack",
-  "nível": "99",
-  "hobbies": ["Games", "Música", "Tecnologia"]
-}
