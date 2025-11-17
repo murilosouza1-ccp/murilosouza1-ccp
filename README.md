@@ -1,4 +1,4 @@
-## Olá, Meu nome e Murilo Souza. Seja bem-vindo ao meu perfil!! 😁👨‍💻 ##
+## Olá, Meu nome é Murilo. Seja bem-vindo ao meu perfil!! 😁👨‍💻 ##
 - 💻 Sou estudante de ciência da computação.
 - 🛜 Me especializando nas áreas de Front-end e Back-end.
 - 🧠 Facilidade em comunicação e aprendizado!
